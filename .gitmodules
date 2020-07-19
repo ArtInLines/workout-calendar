@@ -1,5 +1,5 @@
 [submodule "web-app"]
-	path = /web-app
+	path = web-app
 	url = https://www.github.com/ArtInLines/workout-calendar-web
 [submodule "desktop-app"]
 	path = desktop-app
